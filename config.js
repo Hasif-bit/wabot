@@ -14,7 +14,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'f3341d693ee0',
+	'https://zenzapi.xyz': 'f7f747b44c15',
 }
 
 // Other
@@ -22,7 +22,7 @@ global.owner = ['60105081734','60105081734','60105081734']
 global.premium = ['60105081734']
 global.packname = 'SerialKiller'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'hasif037'
+global.sessionName = 'hasifhensem'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
